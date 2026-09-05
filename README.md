@@ -482,7 +482,7 @@ ________________________________________________________________________________
 | **إبراز الخبرات الرئيسية**    | ركز على عرض الخبرات والمهارات الأكثر صلة بالوظيفة التي تتقدم لها                        |
 | **استخدام لغة احترافية**      | تأكد من استخدام لغة احترافية وخالية من الأخطاء النحوية في سيرتك الذاتية                 |
 | **قوالب للسيرة الذاتية**        | يمكنك استخدام القوالب التالية لتصميم سيرتك الذاتية: <br> - [قوالب Google Drive](https://drive.google.com/drive/folders/1Tax7v7aMb8s4IHIehUzfis8S4ixydLnp?usp=sharing) <br> - [قوالب Overleaf](https://www.overleaf.com/latex/templates/andrewresumeworkshop/yrpwhsjdypmw) |
-| **مواقع لإنشاء السيرة الذاتية** | استخدم المواقع التالية لإنشاء سيرتك الذاتية بسهولة: <br> - [FlowCV](https://flowcv.com/)               |
+| **مواقع لإنشاء السيرة الذاتية** | استخدم المواقع التالية لإنشاء سيرتك الذاتية بسهولة: <br> - [FlowCV](https://flowcv.com/) <br> - [ResumeAI](https://withresumeai.com/) — free ATS checker + AI resume builder; State of ATS 2026 (738/704, Workday 37.9%)               |
 | **قالب هارفارد للسيرة الذاتية بنظام ATS** | - [HarvardCV](https://careerservices.fas.harvard.edu/resources/bullet-point-resume-template/)               |
 | **الشهادات الاحترافية** | قوّي السيرة الذاتية بالشهادات المهنية والاحترافية لأنها هي المعتمدة، وهذا رابط فيه ملف الشهادات الاحترافية [دليل الشهادات الاحترافية](https://drive.google.com/file/d/1lNvH1JiT6e6oLCk3CPp6s5pZ5wo2GviA/view?usp=sharing)               |
 
