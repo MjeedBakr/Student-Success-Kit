@@ -250,6 +250,7 @@ ___
 | Grammarly | أداة تساعد في الكتابة الصحيحة من خلال التدقيق اللغوي والنحوي | [Website](https://www.grammarly.com/) / [iOS](https://apps.apple.com/us/app/grammarly-keyboard/id1158877342) / [Android](https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard) |
 | Overleaf | أداة لتحرير مستندات LaTeX                      | [Website](https://www.overleaf.com/)  |
 | QuillBot | أداة لإعادة صياغة النصوص وتحسينها                | [Website](https://quillbot.com/)      |
+| HumanPen | خدمة لإعادة صياغة المستندات بالذكاء الاصطناعي، مدفوعة بنظام النقاط مع 100 نقطة مجانية عند التسجيل | [Website](https://humanpen.net/) |
 | TextFixer | أداة لتصحيح النصوص وتنسيقها                      | [Website](https://www.textfixer.com/)  |
 | Text Scanner| أداة لتحويل الصور إلى نصوص باستخدام OCR         | [Website](https://text-scan.com/) |
 | CamScanner | تطبيق لمسح المستندات وتحويلها إلى PDF            | [Website](https://www.camscanner.com/) / [iOS](https://apps.apple.com/us/app/camscanner-pdf-scanner/id388627783) / [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner) |
